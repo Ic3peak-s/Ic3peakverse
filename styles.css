@@ -2,7 +2,7 @@ body {
     margin: 0;
     height: 100vh;
     background: radial-gradient(circle at 30% 30%, #1a1a1a, #000000, #282828);
-    background-size: 200% 200%;
+    background-size: 300% 300%;
     animation: aurora 12s ease-in-out infinite;
 }
 
@@ -56,11 +56,11 @@ body {
         background-color:rgba(198, 237, 247, 0.08);
         color: #ffffff;
         text-align: left;
-        font-size: 150%;
-        padding: 10px 20px;
+        font-size: 130%;
+        padding: 10px 10px;
         border-radius: 15px;
         width: fit-content;
-        margin: 100px 80px;
+        margin: 100px 30px;
         border: 1px solid #323232;
         box-shadow: 0 0 15px #ffffff;
 
@@ -75,7 +75,7 @@ body {
     background-color:rgba(198, 237, 247, 0.08);
     color: #ffffff;
     text-align: left;
-    font-size: 150%;
+    font-size: 120%;
     padding: 10px 20px;
     border-radius: 15px;
     width: fit-content;
